@@ -1,0 +1,11 @@
+c:\users\nanand\source\repos\ProductApi\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll.config
+c:\users\nanand\source\repos\ProductApi\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+c:\users\nanand\source\repos\ProductApi\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+c:\users\nanand\source\repos\ProductApi\DataAccessLibrary\bin\Debug\EntityFramework.dll
+c:\users\nanand\source\repos\ProductApi\DataAccessLibrary\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\nanand\source\repos\ProductApi\DataAccessLibrary\bin\Debug\EntityFramework.xml
+c:\users\nanand\source\repos\ProductApi\DataAccessLibrary\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\nanand\source\repos\ProductApi\DataAccessLibrary\obj\Debug\DataAccessLibrary.csprojResolveAssemblyReference.cache
+c:\users\nanand\source\repos\ProductApi\DataAccessLibrary\obj\Debug\DataAccessLibrary.csproj.CoreCompileInputs.cache
+c:\users\nanand\source\repos\ProductApi\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+c:\users\nanand\source\repos\ProductApi\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb
